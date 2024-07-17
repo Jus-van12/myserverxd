@@ -77,3 +77,6 @@ java -Xms16384M -Xmx16384M -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+Paral
 [06:04:53] [User Authenticator #3/INFO]: UUID of player JustinxxxVan is b2df7fb4-99c7-377e-a7d4-c095ee647054
 [06:04:54] [Server thread/INFO]: JustinxxxVan joined the game
 [06:04:54] [Server thread/INFO]: JustinxxxVan[/[0:0:0:0:0:0:0:1%0]:46916] logged in with entity id 2754 at ([world]-12.342708227406524, 72.0, 41.664723133174036)
+[06:10:32] [Server thread/INFO]: JustinxxxVan issued server command: /paper
+[06:11:34] [Server thread/INFO]: JustinxxxVan lost connection: Timed out
+[06:11:34] [Server thread/INFO]: JustinxxxVan left the game
