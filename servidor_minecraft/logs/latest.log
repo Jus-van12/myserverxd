@@ -38,3 +38,12 @@
 [02:32:06] [Server thread/INFO]: The difficulty has been set to Hard
 [02:37:08] [Server thread/INFO]: Villager Villager['Villager'/44, uuid='6cfbc30a-d8a6-42a4-8e1c-764bcd5cb8c5', l='ServerLevel[world]', x=25.30, y=64.00, z=-241.70, cpos=[1, -16], tl=73425, v=true] died, message: 'Villager was slain by JustinxxxVan'
 [02:41:44] [Server thread/INFO]: Villager Villager['Fletcher'/66, uuid='ff1d9ea4-7158-43e5-bbd9-f9ce46a459ec', l='ServerLevel[world]', x=25.32, y=64.00, z=-241.52, cpos=[1, -16], tl=79305, v=true] died, message: 'Fletcher was slain by Zombie'
+[02:49:21] [Server thread/INFO]: JustinxxxVan has reached the goal [Zombie Doctor]
+[02:50:20] [Server thread/INFO]: An entity is required to run this command here
+[02:50:51] [Server thread/INFO]: No entity was found
+[02:51:27] [Server thread/INFO]: Teleported JustinxxxVan to 802.500000, 66.000000, 703.500000
+[02:51:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3108ms or 62 ticks behind
+[02:52:43] [Server thread/INFO]: Villager Villager['Cleric'/3264, uuid='857825af-2a30-41fd-b177-faaa2f1be7cb', l='ServerLevel[world]', x=802.36, y=48.88, z=711.60, cpos=[50, 44], tl=1223, v=true] died, message: 'Cleric was slain by Zombie Villager'
+[02:53:17] [Server thread/INFO]: Teleported JustinxxxVan to 1336.500000, 66.000000, 696.500000
+[02:54:19] [Server thread/INFO]: Villager Villager['Cleric'/3887, uuid='32a648ea-8433-452c-943d-486d693aea6e', l='ServerLevel[world]', x=1336.71, y=39.00, z=693.54, cpos=[83, 43], tl=989, v=true] died, message: 'Cleric was slain by Zombie Villager'
+[02:57:18] [Server thread/INFO]: Teleported JustinxxxVan to 32.500000, 66.000000, -255.500000
