@@ -31,3 +31,24 @@
 [03:52:49] [User Authenticator #0/INFO]: UUID of player JustinxxxVan is b2df7fb4-99c7-377e-a7d4-c095ee647054
 [03:52:52] [Server thread/INFO]: JustinxxxVan joined the game
 [03:52:52] [Server thread/INFO]: JustinxxxVan[/[0:0:0:0:0:0:0:1%0]:37856] logged in with entity id 18 at ([world]42.44251834144201, 66.2790999853611, -255.3209494823589)
+[04:09:08] [Server thread/INFO]: JustinxxxVan fell from a high place
+[04:09:13] [Server thread/WARN]: JustinxxxVan moved too quickly! 8.519400670292299,0.0,5.58286290785648
+[04:11:13] [Server thread/WARN]: JustinxxxVan moved too quickly! 10.709971356666301,0.0,1.8397462016378938
+[04:11:15] [Server thread/WARN]: JustinxxxVan moved too quickly! 10.217702107904216,0.015934478253456064,0.16543492214805156
+[04:11:17] [Server thread/WARN]: JustinxxxVan moved wrongly!
+[04:11:42] [Server thread/WARN]: JustinxxxVan moved wrongly!
+[04:11:51] [Server thread/WARN]: JustinxxxVan moved too quickly! -8.723733388558685,6.699395892540068,0.567206864325513
+[04:11:52] [Server thread/WARN]: JustinxxxVan moved too quickly! -10.599303706238913,0.0,0.045047218302450176
+[04:11:53] [Server thread/WARN]: JustinxxxVan moved too quickly! -10.601197813986118,0.0,-0.22036185672184416
+[04:11:53] [Server thread/WARN]: JustinxxxVan moved too quickly! -10.575551924160322,0.0,-0.7460898379099419
+[04:11:54] [Server thread/WARN]: JustinxxxVan moved too quickly! -10.566486963200077,0.03130000000000166,-0.8864629892863221
+[04:11:55] [Server thread/WARN]: JustinxxxVan moved too quickly! -10.566486963200077,0.0,-0.8864629892863221
+[04:11:59] [Server thread/WARN]: JustinxxxVan moved too quickly! -17.94402914418174,0.0,-11.219013007066053
+[04:12:18] [Server thread/INFO]: JustinxxxVan fell from a high place
+[04:13:47] [Server thread/INFO]: Villager Villager['Librarian'/4102, uuid='acefab03-6706-4aac-9a3c-30afbc865e33', l='ServerLevel[world]', x=25.44, y=64.00, z=-247.05, cpos=[1, -16], tl=146581, v=true] died, message: 'Librarian was slain by JustinxxxVan'
+[04:13:56] [Server thread/INFO]: Villager Villager['Villager'/4103, uuid='235a9c9d-1f18-4089-8da5-57a70049aa0f', l='ServerLevel[world]', x=25.50, y=64.00, z=-249.62, cpos=[1, -16], tl=146880, v=true] died, message: 'Villager was slain by JustinxxxVan'
+[04:14:05] [Server thread/INFO]: Villager Villager['Villager'/4099, uuid='c25bc0c2-8a50-4721-ae86-50f96eddcbc4', l='ServerLevel[world]', x=25.44, y=64.00, z=-246.07, cpos=[1, -16], tl=147976, v=true] died, message: 'Villager was slain by JustinxxxVan'
+[04:14:22] [Server thread/INFO]: Villager Villager['Librarian'/4110, uuid='55f51b74-ef6a-43d2-adac-d194c745bf5e', l='ServerLevel[world]', x=29.43, y=63.75, z=-262.30, cpos=[1, -17], tl=148360, v=true] died, message: 'Librarian was slain by JustinxxxVan'
+[04:14:32] [Server thread/INFO]: Villager Villager['Librarian'/4107, uuid='c6f06bac-4256-4fb4-9ced-7cc35c5f35a3', l='ServerLevel[world]', x=27.70, y=64.00, z=-246.04, cpos=[1, -16], tl=148528, v=true] died, message: 'Librarian was slain by JustinxxxVan'
+[04:14:51] [Server thread/INFO]: Villager Villager['Villager'/4101, uuid='d97fea01-c7f4-425a-a326-5a25f93bd4fa', l='ServerLevel[world]', x=25.52, y=64.00, z=-252.94, cpos=[1, -16], tl=148895, v=true] died, message: 'Villager was slain by JustinxxxVan'
+[04:15:03] [Server thread/INFO]: Villager Villager['Villager'/4106, uuid='ae59face-70b3-4029-9eeb-6419d6bad014', l='ServerLevel[world]', x=25.51, y=64.00, z=-247.06, cpos=[1, -16], tl=149583, v=true] died, message: 'Villager was slain by JustinxxxVan'
