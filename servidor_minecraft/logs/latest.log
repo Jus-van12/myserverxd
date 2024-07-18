@@ -73,3 +73,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected ':' at line 4
 [01:21:21] [Server thread/INFO]: Villager Villager['Villager'/1438, uuid='8f224342-bc65-4366-88d5-7d2700fc423b', l='ServerLevel[world]', x=38.28, y=65.00, z=-263.63, cpos=[2, -17], tl=191, v=true] died, message: 'Villager suffocated in a wall'
 [01:22:06] [Server thread/INFO]: JustinxxxVan was blown up by Creeper
 [01:24:58] [Server thread/INFO]: JustinxxxVan has made the advancement [What a Deal!]
+[01:27:17] [Server thread/INFO]: JustinxxxVan has made the advancement [Stone Age]
+[01:28:09] [Server thread/INFO]: JustinxxxVan has made the advancement [Getting an Upgrade]
+[01:31:52] [Server thread/INFO]: JustinxxxVan has made the advancement [Acquire Hardware]
+[01:31:58] [Server thread/INFO]: JustinxxxVan has made the advancement [Isn't It Iron Pick]
+[01:33:06] [Server thread/INFO]: JustinxxxVan has made the advancement [Diamonds!]
