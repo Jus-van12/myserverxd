@@ -84,3 +84,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected ':' at line 4
 [01:47:06] [Server thread/INFO]: JustinxxxVan suffocated in a wall
 [01:53:32] [Server thread/INFO]: Villager Villager['Villager'/1454, uuid='257b5017-3e31-4fd6-a015-81e793289cc4', l='ServerLevel[world]', x=63.30, y=79.00, z=-302.64, cpos=[3, -19], tl=34728, v=true] died, message: 'Villager was slain by Zombie'
 [01:55:49] [Server thread/INFO]: JustinxxxVan has made the advancement [Sweet Dreams]
+[02:07:00] [Server thread/INFO]: JustinxxxVan lost connection: Timed out
+[02:07:00] [Server thread/INFO]: JustinxxxVan left the game
