@@ -47,3 +47,8 @@
 [02:53:17] [Server thread/INFO]: Teleported JustinxxxVan to 1336.500000, 66.000000, 696.500000
 [02:54:19] [Server thread/INFO]: Villager Villager['Cleric'/3887, uuid='32a648ea-8433-452c-943d-486d693aea6e', l='ServerLevel[world]', x=1336.71, y=39.00, z=693.54, cpos=[83, 43], tl=989, v=true] died, message: 'Cleric was slain by Zombie Villager'
 [02:57:18] [Server thread/INFO]: Teleported JustinxxxVan to 32.500000, 66.000000, -255.500000
+[03:00:00] [Server thread/INFO]: JustinxxxVan was slain by Zombie
+[03:00:39] [Server thread/INFO]: JustinxxxVan was slain by Zombie
+[03:04:24] [Server thread/INFO]: JustinxxxVan was slain by Zombie
+[03:05:11] [Server thread/INFO]: Villager Villager['Fletcher'/4596, uuid='d1bbc737-cf5b-43ea-80d3-e460e30c6357', l='ServerLevel[world]', x=26.70, y=64.00, z=-255.70, cpos=[1, -16], tl=12072, v=true] died, message: 'Fletcher was slain by Zombie'
+[03:05:38] [Server thread/INFO]: JustinxxxVan was slain by Zombie Villager
