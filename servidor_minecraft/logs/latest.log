@@ -82,3 +82,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected ':' at line 4
 [01:46:50] [Server thread/INFO]: No entity was found
 [01:47:03] [Server thread/INFO]: Teleported JustinxxxVan to 0.500000, 60.000000, 0.500000
 [01:47:06] [Server thread/INFO]: JustinxxxVan suffocated in a wall
+[01:53:32] [Server thread/INFO]: Villager Villager['Villager'/1454, uuid='257b5017-3e31-4fd6-a015-81e793289cc4', l='ServerLevel[world]', x=63.30, y=79.00, z=-302.64, cpos=[3, -19], tl=34728, v=true] died, message: 'Villager was slain by Zombie'
+[01:55:49] [Server thread/INFO]: JustinxxxVan has made the advancement [Sweet Dreams]
