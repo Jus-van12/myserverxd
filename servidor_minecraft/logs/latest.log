@@ -1,88 +1,48 @@
-[01:16:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:16:53] [ServerMain/INFO]: Loaded 1290 recipes
-[01:16:53] [ServerMain/INFO]: Loaded 1399 advancements
-[01:16:54] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:16:54] [Server thread/INFO]: Loading properties
-[01:16:54] [Server thread/INFO]: This server is running Paper version 1.21-81-master@ceeb8c1 (2024-07-17T00:39:18Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[01:16:54] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:16:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:16:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:16:55] [Server thread/WARN]: Unable to read file ops.json, backing it up to {0}.backup and creating new copy.
-com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 4 column 12 path $[0].name
-	at com.google.gson.Gson.fromJson(Gson.java:1241) ~[gson-2.10.1.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1075) ~[gson-2.10.1.jar:?]
-	at net.minecraft.server.players.StoredUserList.load(StoredUserList.java:147) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.loadOps(DedicatedPlayerList.java:95) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.loadAndSaveFiles(DedicatedPlayerList.java:30) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:233) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1211) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Expected ':' at line 4 column 12 path $[0].name
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1659) ~[gson-2.10.1.jar:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:539) ~[gson-2.10.1.jar:?]
-	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:786) ~[gson-2.10.1.jar:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar:?]
-	... 9 more
-[01:16:55] [Server thread/INFO]: Default game type: SURVIVAL
-[01:16:55] [Server thread/INFO]: Generating keypair
-[01:16:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:16:55] [Server thread/INFO]: Using epoll channel type
-[01:16:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:16:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:16:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:16:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:16:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:16:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:16:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:16:55] [Server thread/INFO]: Preparing level "world"
-[01:16:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:16:57] [Server thread/INFO]: Time elapsed: 1240 ms
-[01:16:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:16:57] [Server thread/INFO]: Time elapsed: 151 ms
-[01:16:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:16:57] [Server thread/INFO]: Time elapsed: 131 ms
-[01:16:57] [Server thread/INFO]: Running delayed init tasks
-[01:16:57] [Server thread/INFO]: Done (3.877s)! For help, type "help"
-[01:16:57] [Server thread/INFO]: Timings Reset
-[01:17:27] [User Authenticator #0/INFO]: UUID of player JustinxxxVan is b2df7fb4-99c7-377e-a7d4-c095ee647054
-[01:17:29] [Server thread/INFO]: JustinxxxVan joined the game
-[01:17:30] [Server thread/INFO]: JustinxxxVan[/[0:0:0:0:0:0:0:1%0]:58372] logged in with entity id 44 at ([world]44.35711309100694, 66.0, 25.136056992365532)
-[01:17:36] [Server thread/WARN]: JustinxxxVan moved too quickly! 0.92057888791458,0.0,-10.960528914441968
-[01:17:38] [Server thread/INFO]: JustinxxxVan fell from a high place
-[01:17:41] [Server thread/WARN]: JustinxxxVan moved too quickly! -4.019331146149067,7.349999999999994,6.487238807606829
-[01:17:42] [Server thread/WARN]: JustinxxxVan moved wrongly!
-[01:17:43] [Server thread/WARN]: JustinxxxVan moved too quickly! 7.14675192967799,8.159999999999997,-2.038096874272881
-[01:17:46] [Server thread/WARN]: JustinxxxVan moved too quickly! 6.805653370933625,0.0,-9.384614846959437
-[01:17:47] [Server thread/WARN]: JustinxxxVan moved too quickly! 5.796934683766288,0.0,-9.347524069839594
-[01:17:48] [Server thread/WARN]: JustinxxxVan moved too quickly! 4.928690568838839,0.0,-8.960913940157596
-[01:17:48] [Server thread/WARN]: JustinxxxVan moved too quickly! 4.490229472690665,0.0,-9.196815433597067
-[01:17:49] [Server thread/WARN]: JustinxxxVan moved too quickly! 4.539712072168008,0.0,-9.172066503484572
-[01:17:50] [Server thread/INFO]: JustinxxxVan fell from a high place
-[01:17:53] [Server thread/WARN]: JustinxxxVan moved too quickly! 0.0,13.381299999999996,0.0
-[01:17:55] [Server thread/WARN]: JustinxxxVan moved too quickly! -0.7528390431136334,0.0177638703052736,10.983850296147494
-[01:18:14] [Server thread/WARN]: JustinxxxVan moved too quickly! 8.649927798623139,-0.03130000000000166,-6.793971500668647
-[01:18:17] [Server thread/INFO]: JustinxxxVan fell from a high place
-[01:19:17] [Server thread/INFO]: JustinxxxVan was slain by Zombie
-[01:20:06] [Server thread/INFO]: JustinxxxVan was slain by Zombie
-[01:21:21] [Server thread/INFO]: Villager Villager['Villager'/1452, uuid='c12ce95b-0d5d-44df-82b9-4d9be0847c84', l='ServerLevel[world]', x=18.82, y=64.56, z=-263.61, cpos=[1, -17], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[01:21:21] [Server thread/INFO]: Villager Villager['Villager'/1438, uuid='8f224342-bc65-4366-88d5-7d2700fc423b', l='ServerLevel[world]', x=38.28, y=65.00, z=-263.63, cpos=[2, -17], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[01:22:06] [Server thread/INFO]: JustinxxxVan was blown up by Creeper
-[01:24:58] [Server thread/INFO]: JustinxxxVan has made the advancement [What a Deal!]
-[01:27:17] [Server thread/INFO]: JustinxxxVan has made the advancement [Stone Age]
-[01:28:09] [Server thread/INFO]: JustinxxxVan has made the advancement [Getting an Upgrade]
-[01:31:52] [Server thread/INFO]: JustinxxxVan has made the advancement [Acquire Hardware]
-[01:31:58] [Server thread/INFO]: JustinxxxVan has made the advancement [Isn't It Iron Pick]
-[01:33:06] [Server thread/INFO]: JustinxxxVan has made the advancement [Diamonds!]
-[01:39:17] [Server thread/INFO]: JustinxxxVan has made the advancement [Cover Me with Diamonds]
-[01:46:50] [Server thread/INFO]: No entity was found
-[01:47:03] [Server thread/INFO]: Teleported JustinxxxVan to 0.500000, 60.000000, 0.500000
-[01:47:06] [Server thread/INFO]: JustinxxxVan suffocated in a wall
-[01:53:32] [Server thread/INFO]: Villager Villager['Villager'/1454, uuid='257b5017-3e31-4fd6-a015-81e793289cc4', l='ServerLevel[world]', x=63.30, y=79.00, z=-302.64, cpos=[3, -19], tl=34728, v=true] died, message: 'Villager was slain by Zombie'
-[01:55:49] [Server thread/INFO]: JustinxxxVan has made the advancement [Sweet Dreams]
-[02:07:00] [Server thread/INFO]: JustinxxxVan lost connection: Timed out
-[02:07:00] [Server thread/INFO]: JustinxxxVan left the game
+[02:10:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:10:53] [ServerMain/INFO]: Loaded 1290 recipes
+[02:10:53] [ServerMain/INFO]: Loaded 1399 advancements
+[02:10:53] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:10:53] [Server thread/INFO]: Loading properties
+[02:10:53] [Server thread/INFO]: This server is running Paper version 1.21-81-master@ceeb8c1 (2024-07-17T00:39:18Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:10:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:10:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:10:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:10:55] [Server thread/INFO]: Default game type: SURVIVAL
+[02:10:55] [Server thread/INFO]: Generating keypair
+[02:10:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:10:55] [Server thread/INFO]: Using epoll channel type
+[02:10:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:10:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:10:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:10:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:10:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:10:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:10:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:10:55] [Server thread/INFO]: Preparing level "world"
+[02:10:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:10:57] [Server thread/INFO]: Time elapsed: 1155 ms
+[02:10:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:10:57] [Server thread/INFO]: Time elapsed: 268 ms
+[02:10:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:10:57] [Server thread/INFO]: Time elapsed: 108 ms
+[02:10:57] [Server thread/INFO]: Running delayed init tasks
+[02:10:57] [Server thread/INFO]: Done (3.779s)! For help, type "help"
+[02:10:57] [Server thread/INFO]: Timings Reset
+[02:11:02] [User Authenticator #0/INFO]: UUID of player JustinxxxVan is b2df7fb4-99c7-377e-a7d4-c095ee647054
+[02:11:04] [Server thread/INFO]: JustinxxxVan joined the game
+[02:11:04] [Server thread/INFO]: JustinxxxVan[/[0:0:0:0:0:0:0:1%0]:34220] logged in with entity id 18 at ([world]31.316538210971206, 67.19128033396326, -243.28326784446762)
+[02:13:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/seed<--[HERE]
+[02:13:30] [Server thread/INFO]: Seed: [-8621244471515187569]
+[02:15:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/tp JustinxxVan 1192 ~ -888<--[HERE]
+[02:15:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/tp JustinxxxVan 1192 50 -888<--[HERE]
+[02:16:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/tp JustinxxVan 1192 62 -888<--[HERE]
+[02:17:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/tp JustinxxxVan 1192 70 -888<--[HERE]
+[02:18:12] [Server thread/INFO]: Teleported JustinxxxVan to 1192.500000, 69.000000, -887.500000
+[02:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3342ms or 66 ticks behind
+[02:19:27] [Server thread/INFO]: JustinxxxVan has made the advancement [Local Brewery]
+[02:20:43] [Server thread/INFO]: Villager Villager['Villager'/845, uuid='e0576230-ec3a-4858-9ea7-9b0dedbee80f', l='ServerLevel[world]', x=1189.70, y=27.88, z=-889.68, cpos=[74, -56], tl=2822, v=true] died, message: 'Villager was slain by JustinxxxVan'
