@@ -28,3 +28,6 @@
 [03:28:29] [Server thread/INFO]: Running delayed init tasks
 [03:28:29] [Server thread/INFO]: Done (3.983s)! For help, type "help"
 [03:28:29] [Server thread/INFO]: Timings Reset
+[03:52:49] [User Authenticator #0/INFO]: UUID of player JustinxxxVan is b2df7fb4-99c7-377e-a7d4-c095ee647054
+[03:52:52] [Server thread/INFO]: JustinxxxVan joined the game
+[03:52:52] [Server thread/INFO]: JustinxxxVan[/[0:0:0:0:0:0:0:1%0]:37856] logged in with entity id 18 at ([world]42.44251834144201, 66.2790999853611, -255.3209494823589)
