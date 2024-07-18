@@ -1,48 +1,39 @@
-[02:10:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:10:53] [ServerMain/INFO]: Loaded 1290 recipes
-[02:10:53] [ServerMain/INFO]: Loaded 1399 advancements
-[02:10:53] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:10:53] [Server thread/INFO]: Loading properties
-[02:10:53] [Server thread/INFO]: This server is running Paper version 1.21-81-master@ceeb8c1 (2024-07-17T00:39:18Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[02:10:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:10:54] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:10:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:10:55] [Server thread/INFO]: Default game type: SURVIVAL
-[02:10:55] [Server thread/INFO]: Generating keypair
-[02:10:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:10:55] [Server thread/INFO]: Using epoll channel type
-[02:10:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:10:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:10:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:10:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:10:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:10:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:10:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:10:55] [Server thread/INFO]: Preparing level "world"
-[02:10:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:10:57] [Server thread/INFO]: Time elapsed: 1155 ms
-[02:10:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:10:57] [Server thread/INFO]: Time elapsed: 268 ms
-[02:10:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:10:57] [Server thread/INFO]: Time elapsed: 108 ms
-[02:10:57] [Server thread/INFO]: Running delayed init tasks
-[02:10:57] [Server thread/INFO]: Done (3.779s)! For help, type "help"
-[02:10:57] [Server thread/INFO]: Timings Reset
-[02:11:02] [User Authenticator #0/INFO]: UUID of player JustinxxxVan is b2df7fb4-99c7-377e-a7d4-c095ee647054
-[02:11:04] [Server thread/INFO]: JustinxxxVan joined the game
-[02:11:04] [Server thread/INFO]: JustinxxxVan[/[0:0:0:0:0:0:0:1%0]:34220] logged in with entity id 18 at ([world]31.316538210971206, 67.19128033396326, -243.28326784446762)
-[02:13:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/seed<--[HERE]
-[02:13:30] [Server thread/INFO]: Seed: [-8621244471515187569]
-[02:15:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/tp JustinxxVan 1192 ~ -888<--[HERE]
-[02:15:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/tp JustinxxxVan 1192 50 -888<--[HERE]
-[02:16:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/tp JustinxxVan 1192 62 -888<--[HERE]
-[02:17:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/tp JustinxxxVan 1192 70 -888<--[HERE]
-[02:18:12] [Server thread/INFO]: Teleported JustinxxxVan to 1192.500000, 69.000000, -887.500000
-[02:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3342ms or 66 ticks behind
-[02:19:27] [Server thread/INFO]: JustinxxxVan has made the advancement [Local Brewery]
-[02:20:43] [Server thread/INFO]: Villager Villager['Villager'/845, uuid='e0576230-ec3a-4858-9ea7-9b0dedbee80f', l='ServerLevel[world]', x=1189.70, y=27.88, z=-889.68, cpos=[74, -56], tl=2822, v=true] died, message: 'Villager was slain by JustinxxxVan'
+[02:28:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:28:40] [ServerMain/INFO]: Loaded 1290 recipes
+[02:28:40] [ServerMain/INFO]: Loaded 1399 advancements
+[02:28:40] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:28:40] [Server thread/INFO]: Loading properties
+[02:28:40] [Server thread/INFO]: This server is running Paper version 1.21-81-master@ceeb8c1 (2024-07-17T00:39:18Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:28:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:28:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:28:42] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:28:42] [Server thread/INFO]: Default game type: SURVIVAL
+[02:28:42] [Server thread/INFO]: Generating keypair
+[02:28:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:28:42] [Server thread/INFO]: Using epoll channel type
+[02:28:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:28:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:28:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:28:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:28:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:28:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:28:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:28:42] [Server thread/INFO]: Preparing level "world"
+[02:28:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:28:44] [Server thread/INFO]: Time elapsed: 1502 ms
+[02:28:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:28:44] [Server thread/INFO]: Time elapsed: 210 ms
+[02:28:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:28:44] [Server thread/INFO]: Time elapsed: 125 ms
+[02:28:45] [Server thread/INFO]: Running delayed init tasks
+[02:28:45] [Server thread/INFO]: Done (4.192s)! For help, type "help"
+[02:28:45] [Server thread/INFO]: Timings Reset
+[02:28:45] [User Authenticator #0/INFO]: UUID of player JustinxxxVan is b2df7fb4-99c7-377e-a7d4-c095ee647054
+[02:28:47] [Server thread/INFO]: JustinxxxVan joined the game
+[02:28:47] [Server thread/INFO]: JustinxxxVan[/[0:0:0:0:0:0:0:1%0]:45704] logged in with entity id 18 at ([world]58.77747861604254, 67.0, -229.50391263005528)
+[02:29:35] [Server thread/INFO]: JustinxxxVan was slain by Enderman
+[02:31:13] [Server thread/INFO]: Incorrect argument for command
+...ifficulty Hard<--[HERE]
+[02:31:23] [Server thread/INFO]: The difficulty has been set to Normal
+[02:32:06] [Server thread/INFO]: The difficulty has been set to Hard
+[02:37:08] [Server thread/INFO]: Villager Villager['Villager'/44, uuid='6cfbc30a-d8a6-42a4-8e1c-764bcd5cb8c5', l='ServerLevel[world]', x=25.30, y=64.00, z=-241.70, cpos=[1, -16], tl=73425, v=true] died, message: 'Villager was slain by JustinxxxVan'
