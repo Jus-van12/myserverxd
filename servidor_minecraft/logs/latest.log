@@ -37,3 +37,4 @@
 [02:31:23] [Server thread/INFO]: The difficulty has been set to Normal
 [02:32:06] [Server thread/INFO]: The difficulty has been set to Hard
 [02:37:08] [Server thread/INFO]: Villager Villager['Villager'/44, uuid='6cfbc30a-d8a6-42a4-8e1c-764bcd5cb8c5', l='ServerLevel[world]', x=25.30, y=64.00, z=-241.70, cpos=[1, -16], tl=73425, v=true] died, message: 'Villager was slain by JustinxxxVan'
+[02:41:44] [Server thread/INFO]: Villager Villager['Fletcher'/66, uuid='ff1d9ea4-7158-43e5-bbd9-f9ce46a459ec', l='ServerLevel[world]', x=25.32, y=64.00, z=-241.52, cpos=[1, -16], tl=79305, v=true] died, message: 'Fletcher was slain by Zombie'
