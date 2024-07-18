@@ -57,3 +57,6 @@
 [04:30:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3077ms or 61 ticks behind
 [04:30:37] [Server thread/INFO]: Teleported JustinxxxVan to 1560.500000, 68.000000, 24.500000
 [04:31:14] [Server thread/INFO]: Villager Villager['Villager'/6838, uuid='d4825233-a65e-406b-9529-74002cf9c373', l='ServerLevel[world]', x=1556.32, y=53.00, z=27.68, cpos=[97, 1], tl=737, v=true] died, message: 'Villager was slain by JustinxxxVan'
+[04:43:36] [Server thread/INFO]: Teleported JustinxxxVan to 32.500000, 68.000000, -275.500000
+[04:44:31] [Server thread/INFO]: JustinxxxVan lost connection: Timed out
+[04:44:32] [Server thread/INFO]: JustinxxxVan left the game
