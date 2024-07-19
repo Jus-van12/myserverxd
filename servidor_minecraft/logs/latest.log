@@ -79,3 +79,6 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [22:49:27] [Server thread/INFO]: JustinxxxVan joined the game
 [22:49:27] [Server thread/INFO]: JustinxxxVan[/[0:0:0:0:0:0:0:1%0]:32838] logged in with entity id 224 at ([world]-440.98207964459897, 67.0, -203.36769186400326)
 [22:53:41] [Server thread/WARN]: JustinxxxVan moved wrongly!
+[23:02:10] [Server thread/INFO]: JustinxxxVan was blown up by Creeper
+[23:02:43] [Server thread/INFO]: JustinxxxVan lost connection: Timed out
+[23:02:43] [Server thread/INFO]: JustinxxxVan left the game
